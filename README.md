@@ -22,5 +22,5 @@ There will be more vidoes building out the rest of TODOMVC.
 ## Code:
 
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
-- [End of Lecture 1](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-2)
+- [End of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-2)
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-2-lists-have-items'>TodoMVC 2:  Lists have Items</a> on Learn.co and start learning to code for free.</p>
