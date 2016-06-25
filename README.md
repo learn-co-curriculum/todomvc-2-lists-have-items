@@ -17,10 +17,12 @@
 
 This video is meant to be a review of the second set of topics in Ruby on Rails.
 
-There will be more vidoes building out the rest of TODOMVC.
+There will be more videos building out the rest of TODOMVC.
 
 ## Code:
 
 - [Start of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-1)
 - [End of Lecture](https://github.com/aviflombaum/todo-mvc-lv/tree/lecture-2)
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/todomvc-2-lists-have-items'>TodoMVC 2:  Lists have Items</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/todomvc-2-lists-have-items'>TodoMVC 2:  Lists have Items</a> on Learn.co and start learning to code for free.</p>
